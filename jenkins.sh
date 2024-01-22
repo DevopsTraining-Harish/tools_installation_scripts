@@ -1,5 +1,6 @@
 #!/bin/bash
-
+ # jenkins installation 
+ # By Harish
 sudo apt update -y
 
 sudo apt upgrade -y 
